@@ -1,1 +1,1 @@
-FROM proget.repo.symbotic.corp/dev_images/library/simba-sde-dev-focal:0.13.2d
+FROM proget.repo.symbotic.corp/dev_images/library/curl:latest
