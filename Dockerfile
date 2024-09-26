@@ -1,1 +1,1 @@
-FROM docker.io/redhat/ubi8-minimal:8.5-230
+FROM proget.repo.symbotic.corp/dev_images/library/simba-sde-dev-focal:0.13.2d
